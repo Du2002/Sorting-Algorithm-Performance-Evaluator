@@ -117,7 +117,7 @@ java Main
 
 | 👤 Member | 🎯 Contribution |
 |-----------|-----------------|
-| K.D.C.Sepiyumi | 📥 CSV reading and dataset handling (`CsvReaderUtil.java`) | GUI Window |
+| K.D.C.Sepiyumi | 📥 CSV reading, dataset handling, GUI Window (`CsvReaderUtil.java`) |
 | N.AN.K.R.Nishshanka | 🧠 Sorting algorithms (`SortingAlgorithms.java`) |
 | S.A.C.N.Manike | ⏱️ Performance evaluation (`PerformanceEvaluator.java`, `MainFrame.java`) |
 
