@@ -4,7 +4,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Swing-blueviolet)
-![Course](https://img.shields.io/badge/Course-IC4302%20Programming%20III-success)
 
 ---
 
@@ -23,8 +22,8 @@ Load a dataset, pick a column, and let five algorithms race! 🏎️💨
 
 ## 📸 Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34fac39d-947e-4a36-8bb3-9418bc8a526a" />
-`
+<img width="1918" height="1017" alt="Screenshot 2026-10-28 001746" src="https://github.com/user-attachments/assets/fe166c12-c136-41b5-85b6-7b24834255b2" />
+
 
 ---
 
