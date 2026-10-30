@@ -8,6 +8,12 @@ import java.util.List;
 /**
  * CsvReaderUtil
  * -----------------------------------------------------------------
+ * 
+* PURPOSE OF THIS CLASS: 
+ *   1. Reads a CSV file chosen by the user.
+ *   2. Remembers the column names (headers) and all the data rows.
+ *   3. Gives the sorting algorithms one column as a double[] array.
+
  * HOW THE GUI USES IT:
  *   load(file)            -> user uploads a file
  *   getHeaders()          -> show column names in the dropdown
